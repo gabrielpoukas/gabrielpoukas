@@ -57,6 +57,20 @@ Sou um estudante ativo na plataforma Alura, com certificações concluídas em:
 
 ---
 
+## 🐍 Minhas Contribuições em Ação!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+---
+
 ## 🎯 Em Busca de
 
 Estou ativamente buscando uma **vaga de Estágio** onde eu possa:
