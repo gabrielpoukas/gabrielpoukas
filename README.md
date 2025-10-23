@@ -1,125 +1,67 @@
-Olá, mundo! Eu sou  Gabriel Alexandre Marques Cardoso  👋
+## 📚 Educação e Certificações
 
-🎓 Estudante de Sistemas de Informação e Desenvolvedor Front-End em formação.
+### Formação Acadêmica
+* **Bacharelado em Sistemas de Informação** - 2º Semestre
+    * *UNIFATECIE* - [2024] - [2028]
 
-Sou um estudante do 2º semestre de Bacharelado em Sistemas de Informação na UNIFATECIE, apaixonado por tecnologia e focado em construir experiências web limpas e funcionais.
+### Cursos e Aperfeiçoamento (Alura)
+Sou um estudante ativo na plataforma Alura, com certificações concluídas em:
 
-Minha jornada atual está concentrada no Desenvolvimento Front-End, e estou ativamente buscando uma oportunidade de Estágio na área para aplicar meus conhecimentos e crescer profissionalmente.
+* **HTML e CSS:** Construindo páginas web.
+* **JavaScript:** Fundamentos, manipulação do DOM e lógica.
+* **Lógica de Programação:** Construção de algoritmos.
+* **Git e GitHub:** Controle de versão e colaboração.
 
-🛠️ Habilidades e Tecnologias
+---
 
-Tenho uma base sólida e estou em constante desenvolvimento nas seguintes tecnologias:
+## 💡 Meus Projetos
 
-Categoria
 
-Conhecimento Atual
+| Projeto | Tecnologias | Descrição | Status |
+| :--- | :--- | :--- | :--- |
+| **Um site de Resumos de Livros** | `HTML`, `CSS`, `JS` | [ Landing Page Responsiva Utilizando HTML,CSS e JS.  https://gabrielpoukas.github.io/ResumosFran/ ] | Concluído |
+| **[Nome do Projeto 2]** | `JS`, `Lógica` | [Projeto Barbearia, Site para atrair clientes visando conectar com as redes sociais do estabelecimento https://gabrielpoukas.github.io/Barberstyle/ ] | Concluído |
+| **[Nome do Projeto 3]** | `HTML`, `CSS` | [Criação Site Hospital https://gabrielpoukas.github.io/ProjetoHospital/ ] | Em desenvolvimento  |
 
-Linguagens Base
+➡️ **[Visite meu Portfolio para ver mais projetos!](https://github.com/gabrielpoukas?tab=repositories))**
 
-HTML5, CSS3, JavaScript
-
-Controle de Versão
-
-Git & GitHub
-
-Lógica
-
-Lógica de Programação
-
-<p align="center">
-<!-- URLs corrigidas para que os badges apareçam corretamente -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-for-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-</p>
 
 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-<!-- CORREÇÃO: Link direto do github-readme-stats para aparecer a imagem -->
+<!-- Card de Estatísticas Gerais (CORRIGIDO) -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgabrielpoukas%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26locale%3Dpt" alt="Estatísticas do GitHub"/>
 
-<!-- CORREÇÃO: Link direto das linguagens mais usadas -->
+<!-- Card de Linguagens Mais Usadas (CORRIGIDO) -->
 
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgabrielpoukas%26layout%3Dcompact%26theme%3Ddark%26locale%3Dpt" alt="Linguagens Mais Usadas"/>
 </p>
 
-📚 Educação e Certificações
 
-Formação Acadêmica
 
-Bacharelado em Sistemas de Informação - 2º Semestre
-    * UNIFATECIE - 2024 - 2028
+---
 
-Cursos e Aperfeiçoamento (Alura)
-
-Sou um estudante ativo na plataforma Alura, com certificações concluídas em:
-
-HTML e CSS: Construindo páginas web.
-
-JavaScript: Fundamentos, manipulação do DOM e lógica.
-
-Lógica de Programação: Construção de algoritmos.
-
-Git e GitHub: Controle de versão e colaboração.
-
-💡 Meus Projetos
-
-Projeto
-
-Tecnologias
-
-Descrição
-
-Status
-
-Um site de Resumos de Livros
-
-HTML, CSS, JS
-
-Landing Page Responsiva Utilizando HTML,CSS e JS.  https://gabrielpoukas.github.io/ResumosFran/
-
-Concluído
-
-Nome do Projeto 2
-
-JS, Lógica
-
-Projeto Barbearia, Site para atrair clientes visando conectar com as redes sociais do estabelecimento https://gabrielpoukas.github.io/Barberstyle/
-
-Concluído
-
-Nome do Projeto 3
-
-HTML, CSS
-
-Criação Site Hospital https://gabrielpoukas.github.io/ProjetoHospital/
-
-Em desenvolvimento 
-
-➡️ Visite meu Portfolio para ver mais projetos!)
-
-🐍 Minhas Contribuições em Ação!
+## 🐍 Minhas Contribuições em Ação!
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake.svg" />
-    <img alt="github snake" src="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake.svg" />
-  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake.svg" />
+  </picture>
 </p>
 
-🎯 Em Busca de
+---
 
-Estou ativamente buscando uma vaga de Estágio onde eu possa:
+---
 
-Contribuir com meus conhecimentos em Front-End (HTML, CSS, JavaScript).
+## 🎯 Em Busca de
 
-Aprender boas práticas de desenvolvimento e trabalho em equipe.
+Estou ativamente buscando uma **vaga de Estágio** onde eu possa:
 
-Crescer em um ambiente dinâmico e desafiador.
+* Contribuir com meus conhecimentos em Front-End (HTML, CSS, JavaScript).
+* Aprender boas práticas de desenvolvimento e trabalho em equipe.
+* Crescer em um ambiente dinâmico e desafiador.
 
 ## 📫 Contato
 
