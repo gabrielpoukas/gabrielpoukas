@@ -56,6 +56,18 @@ Sou um estudante ativo na plataforma Alura, com certificações concluídas em:
 ➡️ **[Visite meu Portfolio para ver mais projetos!](https://github.com/gabrielpoukas?tab=repositories))**
 
 
+📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+<!-- Card de Estatísticas Gerais (CORRIGIDO) -->
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dgabrielpoukas%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26locale%3Dpt" alt="Estatísticas do GitHub"/>
+
+<!-- Card de Linguagens Mais Usadas (CORRIGIDO) -->
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dgabrielpoukas%26layout%3Dcompact%26theme%3Ddark%26locale%3Dpt" alt="Linguagens Mais Usadas"/>
+</p>
+
+
 
 ---
 
