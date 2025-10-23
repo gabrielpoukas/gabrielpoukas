@@ -46,7 +46,7 @@ Sou um estudante ativo na plataforma Alura, com certificações concluídas em:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LM020y7wYyJMY/giphy.gif" alt="Pessoa programando GIF" width="400"/>
+  <img src="[https://media.giphy.com/media/LM020y7wYyJMY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWliOWhtZXBwZ2FiaHhhemYycHBibXE4OHllaDF3cDBxeWg3cmxxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif)" alt="Pessoa programando GIF" width="400"/>
 </p>
 
 
