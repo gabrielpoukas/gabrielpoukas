@@ -39,7 +39,7 @@ Sou um estudante ativo na plataforma Alura, com certificações concluídas em:
   </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielpoukas&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&hide_border=true&cache_bust=SEU_TIMESTAMP" 
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielpoukas&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&hide_border=true&cache_bust=202510231305" 
        alt="Estatísticas do GitHub" />
 </p>
 
