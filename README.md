@@ -49,7 +49,7 @@ Sou um estudante ativo na plataforma Alura, com certificações concluídas em:
 
 | Projeto | Tecnologias | Descrição | Status |
 | :--- | :--- | :--- | :--- |
-| **Um site de Resumos de Livros** | `HTML`, `CSS`, `JS` | [ Landing Page Responsiva Utilizando HTML,CSS e JS.  https://gabrielpoukas.github.io/ResumosFran/ ] | Em desenvolvimento/Concluído |
+| **Um site de Resumos de Livros** | `HTML`, `CSS`, `JS` | [ Landing Page Responsiva Utilizando HTML,CSS e JS.  https://gabrielpoukas.github.io/ResumosFran/ ] | Concluído |
 | **[Nome do Projeto 2]** | `JS`, `Lógica` | [Projeto Barbearia, Site para atrair clientes visando conectar com as redes sociais do estabelecimento https://gabrielpoukas.github.io/Barberstyle/ ] | Concluído |
 | **[Nome do Projeto 3]** | `HTML`, `CSS` | [Criação Site Hospital https://gabrielpoukas.github.io/ProjetoHospital/ ] | Em desenvolvimento  |
 
