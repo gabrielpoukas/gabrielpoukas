@@ -39,6 +39,30 @@ Sou um estudante ativo na plataforma Alura, com certificações concluídas em:
   </picture>
 </p>
 
+
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/gabrielpoukas/gabrielpoukas/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielpoukas&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&hide_border=true" 
+       alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpoukas&layout=compact&langs_count=8&theme=dracula" 
+       alt="Top Linguagens" />
+</p>
+
+---
+---
+
 ---
 
 ---
