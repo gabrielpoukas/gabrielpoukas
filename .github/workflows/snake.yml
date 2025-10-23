@@ -2,6 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
+    # Roda a cada 12 horas 
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -12,16 +13,14 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
+          # Seu nome de usuário do GitHub (é obrigatório)
           github_user_name: ${{ github.repository_owner }}
+
+          # Arquivos a serem gerados: svg para temas e gif
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.gif?color_snake=orange
-
-      - uses: actions/upload-artifact@v3
-        with:
-          name: github-snake-artifacts
-          path: dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -30,3 +29,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # Forcando o processamento do GitHub em: 2025-10-23
